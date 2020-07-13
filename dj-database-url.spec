@@ -4,7 +4,7 @@
 #
 Name     : dj-database-url
 Version  : 0.5.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/01/c4/98fbf678e810029be8078419f7bba626aafa2e81bc38748757db954c477c/dj-database-url-0.5.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/01/c4/98fbf678e810029be8078419f7bba626aafa2e81bc38748757db954c477c/dj-database-url-0.5.0.tar.gz
 Summary  : Use Database URLs in your Django Application.
